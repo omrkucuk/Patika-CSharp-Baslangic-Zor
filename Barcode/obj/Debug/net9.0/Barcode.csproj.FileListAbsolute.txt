@@ -1,0 +1,6 @@
+D:\Patika-.Net\Zor\Barcode\obj\Debug\net9.0\Barcode.csproj.AssemblyReference.cache
+D:\Patika-.Net\Zor\Barcode\obj\Debug\net9.0\Barcode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika-.Net\Zor\Barcode\obj\Debug\net9.0\Barcode.AssemblyInfoInputs.cache
+D:\Patika-.Net\Zor\Barcode\obj\Debug\net9.0\Barcode.AssemblyInfo.cs
+D:\Patika-.Net\Zor\Barcode\obj\Debug\net9.0\Barcode.csproj.CoreCompileInputs.cache
+D:\Patika-.Net\Zor\Barcode\obj\Debug\net9.0\Barcode.sourcelink.json
