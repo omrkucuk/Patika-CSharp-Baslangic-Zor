@@ -1,0 +1,14 @@
+D:\Patika-.Net\Zor\Voting_App\bin\Debug\net9.0\Voting_App.exe
+D:\Patika-.Net\Zor\Voting_App\bin\Debug\net9.0\Voting_App.deps.json
+D:\Patika-.Net\Zor\Voting_App\bin\Debug\net9.0\Voting_App.runtimeconfig.json
+D:\Patika-.Net\Zor\Voting_App\bin\Debug\net9.0\Voting_App.dll
+D:\Patika-.Net\Zor\Voting_App\bin\Debug\net9.0\Voting_App.pdb
+D:\Patika-.Net\Zor\Voting_App\obj\Debug\net9.0\Voting_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika-.Net\Zor\Voting_App\obj\Debug\net9.0\Voting_App.AssemblyInfoInputs.cache
+D:\Patika-.Net\Zor\Voting_App\obj\Debug\net9.0\Voting_App.AssemblyInfo.cs
+D:\Patika-.Net\Zor\Voting_App\obj\Debug\net9.0\Voting_App.csproj.CoreCompileInputs.cache
+D:\Patika-.Net\Zor\Voting_App\obj\Debug\net9.0\Voting_App.dll
+D:\Patika-.Net\Zor\Voting_App\obj\Debug\net9.0\refint\Voting_App.dll
+D:\Patika-.Net\Zor\Voting_App\obj\Debug\net9.0\Voting_App.pdb
+D:\Patika-.Net\Zor\Voting_App\obj\Debug\net9.0\Voting_App.genruntimeconfig.cache
+D:\Patika-.Net\Zor\Voting_App\obj\Debug\net9.0\ref\Voting_App.dll
